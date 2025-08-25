@@ -251,7 +251,7 @@ resource "aws_rds_cluster" "aurora_b2b" {
 
 ---
 
-## 🚀 VANTAGENS ESTRATÉGICAS PARA DISTRIBUIÇÃO FARMACÊUTICA
+## VANTAGENS ESTRATÉGICAS PARA DISTRIBUIÇÃO FARMACÊUTICA
 
 ### Compliance Regulatório Automatizado:
 - **Configurações ANVISA** definidas como código
