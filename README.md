@@ -101,9 +101,9 @@ A implementação estratégica das três soluções AWS: Lambda com API Gateway,
 
 ---
 
-**Documento elaborado por:** Natalia Moraes - Responsável técnico
+**Documento elaborado por:** Natalia Moraes - Responsável técnico  
 **Revisado por:** Layla Hassan - DevOps Lead  
-**Aprovado por:** __________________________ 
+**Aprovado por:** __________________________
 
 *Valores estimados para fins demonstrativos | Economia projetada: $XXX,XXX anuais | Crescimento: +XXX% capacidade | ROI: XXX%*
 
@@ -220,6 +220,9 @@ resource "aws_rds_cluster" "aurora_b2b" {
 ---
 
 ## ESTRUTURA SUGERIDA DO PROJETO TERRAFORM
+<img width="3840" height="419" alt="Untitled diagram _ Mermaid" src="https://github.com/user-attachments/assets/a2673655-3512-4ab3-8134-8cca2e23f555" />
+
+
 
 ---
 
@@ -315,9 +318,10 @@ A implementação estratégica do Terraform como Infrastructure as Code para a A
 
 ---
 
-**Documento elaborado por:** Natalia Moraes - Responsável técnico
+**Documento elaborado por:** Natalia Moraes - Responsável técnico  
 **Revisado por:** Layla Hassan - DevOps Lead  
-**Aprovado por:** __________________________ 
+**Aprovado por:** __________________________
+
 
 
 *Infrastructure as Code | Automação Completa | Escalabilidade Garantida*
